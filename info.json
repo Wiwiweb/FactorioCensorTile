@@ -1,0 +1,12 @@
+{
+    "name": "censor-tile",
+    "version": "1.0.0",
+    "title": "Censor Tile",
+    "author": "Wiwiweb",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "A 1x1 black square entity that has no collision, used to hide things on screenshots.",
+    "package": {
+      "git_publish_branch": "main"
+    }
+}
