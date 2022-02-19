@@ -27,6 +27,10 @@ data:extend({
       { -0.5, -0.5 },
       { 0.5, 0.5 }
     },
+    selection_priority = 255,
+    map_color = {}, -- full opacity black
+    enemy_map_color = {},
+    friendly_map_color = {},
     collision_mask = {},
     minable = {
       mining_time = 0,
