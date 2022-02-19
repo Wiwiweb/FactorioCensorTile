@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
-Date: ????
+Date: 2022-02-19
   Changes:
     - Max selection_priority (always select the censor above the thing it's hiding)
     - Censor tiles will appear black on map
