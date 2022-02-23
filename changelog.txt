@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
-Date: ????
+Date: 2022-02-23
   Changes:
     - Order item after everything for circuit signals.
     - Sort under text plates if the Text Plates mod is installed.
