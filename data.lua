@@ -1,3 +1,5 @@
+local subgroup = mods["textplates"] and "textplates" or "tool"
+
 data:extend({
   {
     type = "item",
@@ -6,6 +8,8 @@ data:extend({
     icon_size = 1,
     stack_size = 200,
     place_result = "1x1-censor-tile",
+    subgroup = subgroup,
+    order = "zzzz"
   },
   {
     type = "simple-entity",
@@ -49,7 +53,7 @@ data:extend({
     energy_required = 0.01,
     ingredients = {},
     result = "1x1-censor-tile",
-    subgroup = "tool",
+    subgroup = subgroup,
     order = "zzzz"
   },
 })

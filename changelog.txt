@@ -2,14 +2,16 @@
 Version: 1.0.2
 Date: ????
   Changes:
+    - Order item after everything for circuit signals.
+    - Sort under text plates if the Text Plates mod is installed.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2022-02-19
   Changes:
-    - Max selection_priority (always select the censor above the thing it's hiding)
-    - Censor tiles will appear black on map
+    - Max selection_priority (always select the censor above the thing it's hiding).
+    - Censor tiles will appear black on map.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2022-02-19
   Features:
-    - Initial release
+    - Initial release.
